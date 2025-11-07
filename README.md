@@ -55,7 +55,7 @@ touch ~/.vimrc.plug
 ```bash
 mkdir -p .vim/plug
 ```
-3. Configurate **vimrc.plug** to get PlugIn
+3. Configure **vimrc.plug** to get PlugIn
 
 ```bash
 vim .vimrc.plug
