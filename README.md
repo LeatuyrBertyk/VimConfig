@@ -7,7 +7,7 @@ Vim is simply a lightweight text editor. Unlike VS Code or Sublime Text, its ini
 
 To make the experience more convenient, Vim supports many plugins, and below is my configuration to turn Vim into an IDE.
 
-![Vim interface](assets/screenshotVim.png)
+![Vim interface](assets/ScreenshotVim.png)
 
 <h2>2. Requirements</h2>
 
