@@ -42,7 +42,7 @@ git clone https://github.com/LeatuyrBertyk/VimConfig
 curl -flo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-In Vim, type ***Esc** to switch to Command mode, type **:PlugInstall**, the editor will automatically download PlugIns in **vimrc.plug**.
+In Vim, type **Esc** to switch to Command mode, then type **:PlugInstall**, the editor will automatically download PlugIns from **vimrc.plug**.
 
 <h2>3. Step by step guide for Linux (Ubuntu) users</h2>
 
